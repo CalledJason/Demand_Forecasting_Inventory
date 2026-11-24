@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#3B82F6"            # Biru elektrik modern untuk tombol & slider
+backgroundColor = "#0F172A"         # Biru dongker gelap (Slate 900) agar nyaman di mata
+secondaryBackgroundColor = "#1E293B"# Warna sidebar & kotak input (Slate 800)
+textColor = "#F8FAFC"               # Putih bersih
+font = "sans serif"

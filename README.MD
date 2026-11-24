@@ -2,7 +2,7 @@
 
 Simulasi stok ritel harian untuk 10 toko dan 50 produk menggunakan prediksi **LightGBM** dan perhitungan *dynamic safety stock*. Proyek ini membandingkan total biaya operasional—gabungan biaya simpan gudang (*overstock*) dan kerugian akibat kehabisan barang (*lost sales*)—antara metode tebakan konvensional (*baseline*) melawan model *machine learning*.
 
-![Preview Dashboard](assets/dashboard_preview.png)
+![Preview Dashboard](screenshots/dashboard.png)
 
 ## Ringkasan Teknis
 

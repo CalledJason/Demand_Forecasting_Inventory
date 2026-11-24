@@ -13,14 +13,12 @@ Simulasi stok ritel harian untuk 10 toko dan 50 produk menggunakan prediksi **Li
 
 ## Hasil Simulasi (Q4 2017)
 
-*(Sesuaikan angka di bawah ini dengan output tabel akhir di `04_business_simulation.ipynb`)*
-
 | Metrik | Metode Lama (Lag-7) | Model LightGBM |
 | :--- | :---: | :---: |
-| **Total Biaya Simpan** | Rp ... | Rp ... |
-| **Potensi Lost Sales** | Rp ... | Rp ... |
-| **Total Kerugian** | Rp ... | Rp ... |
-| **Service Level Aktual** | ...% | ...% |
+| **Total Biaya Simpan** | Rp 2.901009e+09 | Rp 1.831695e+09 |
+| **Potensi Lost Sales** | Rp 79350000.0 | Rp 112245000.0	 |
+| **Total Kerugian** | Rp 2.980359e+09 | Rp 1.943940e+09 |
+| **Service Level Aktual** | 97.34% | 95.89% |
 
 ## Struktur Folder
 
